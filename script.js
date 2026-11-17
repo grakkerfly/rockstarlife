@@ -3,7 +3,7 @@ function getProjectLinks() {
   return {
     twitterUrl: "https://x.com/rockstarlifeVI",
     pumpFunUrl: "https://pump.fun/coin",
-    contractAddress: "contract address here",
+    contractAddress: "EvZRPPPoGG6pbzHRtNxVn5GvoHGGBdeqoUTpo59pump",
   };
 }
 
