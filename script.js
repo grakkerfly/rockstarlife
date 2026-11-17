@@ -1,9 +1,9 @@
-// Edite estes três valores para atualizar todos os botões do site.
+
 function getProjectLinks() {
   return {
-    twitterUrl: "https://example.com/?demo=x",
-    pumpFunUrl: "https://example.com/?demo=pump-fun",
-    contractAddress: "DEMO-ROCKSTAR-CONTRACT",
+    twitterUrl: "https://x.com/rockstarlifeVI",
+    pumpFunUrl: "https://pump.fun/coin",
+    contractAddress: "contract address here",
   };
 }
 
